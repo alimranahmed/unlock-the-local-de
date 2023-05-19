@@ -3,7 +3,7 @@
 
 
 ### How it works
-Everytime you load an article of [thelocal.de/](https://www.thelocal.de/), it blocks the article page and shows a popup/modal to become a member. As this modal is being shown by JS, this can be bypassed by disabling the js for this site. So, this extension disable/enable javascript specifically for this newsite whenever the extension icon is clicked. Not other site is affected. 
+Everytime you load an article of [thelocal.de](https://www.thelocal.de/), it blocks the article page and shows a popup/modal to become a member. As this modal is being shown by JS, this can be bypassed by disabling the js for this site. So, this extension disable/enable javascript specifically for this newsite whenever the extension icon is clicked. Not other site is affected. 
 
 
 ### Important
