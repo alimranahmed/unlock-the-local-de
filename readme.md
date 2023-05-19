@@ -1,5 +1,5 @@
 # Unlock The Local.de
-[thelocal.de/](https://www.thelocal.de/) is a great english newspaper for Germany but most of it's articles are restricted non-member visitor. This Chrome extension enables to read member-only content without being member.
+[thelocal.de](https://www.thelocal.de/) is a great english newspaper for Germany but most of it's articles are restricted non-member visitor. This Chrome extension enables to read member-only content without being member.
 
 
 ### How it works
@@ -8,6 +8,7 @@ Everytime you load an article of [thelocal.de/](https://www.thelocal.de/), it bl
 
 ### Important
 This extension works at the date of **19th May 2023**
+
 *It might not work if the popup showing mechanism changed from js to server side content-rendering*
 
 
@@ -19,7 +20,7 @@ This extension works at the date of **19th May 2023**
 
 
 ### Usages
-1. Go to [thelocal.de/](https://www.thelocal.de/) newspaper home page
+1. Go to [thelocal.de](https://www.thelocal.de/) newspaper home page
 2. Open any article in new page
 3. Immediately after loading the article page, click on the the local icon to disable js.
 4. Now, the js is disabled for [thelocal.de](https://www.thelocal.de), so it won't show the memebership popup
